@@ -1,0 +1,12 @@
+export const CHANGE_NAV_TITLE = 'CHANGE_NAV_TITLE' // 改变导航标题
+export const RECEIVE_SELF_DATA = 'RECEIVE_SELF_DATA' //获取自身信息
+export const SHOW_SETDRAWER = 'SHOW_SETDRAWER' //显示抽屉
+export const HIDDEN_SETDRAWER = 'HIDDEN_SETDTAWER' //隐藏抽屉
+export const RECEIVE_FRIENDS_DATA = 'RECEIVE_FRIENDS_DATA' //获取好友信息
+export const SHOW_DETAIL_VIEW = 'TOGGLE_DETAIL_VIEW' //显示详情页面
+export const HIDDEN_DETAIL_VIEW = 'HIDDEN_DETAIL_VIEW' //隐藏详情页面
+export const CHANGE_CURRENT_USER = 'CHANGE_CURRENT_USER' //切换好友信息
+export const SET_ISLOADING_STATUS = 'SET_ISLOADING_STATUS'//loading状态
+export const RESET_UNREAD = 'RESET_UNREAD'
+export const ADD_NEW_MESSAGE = 'ADD_NEW_MESSAGE'
+export const SET_ISCHAT = 'SET_ISCHAT'
